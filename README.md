@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Infinite-Gaming
+- 👀 I’m interested in learning coding and about computer science
+- 🌱 I’m currently learning python and computer science gcse as I am a begginer
